@@ -7,3 +7,5 @@ Refreshing theoretical things for grad interviews
 You may be wondering why I'm doing this, well its because I just got an interview offer from a respectable software engineering company - <spoiler>redacted</spoiler>.
 
 AND I'M INTERNALLY PANICKING.
+
+![gif](https://media.giphy.com/media/jcbsThcVP2yFa/giphy.gif)
