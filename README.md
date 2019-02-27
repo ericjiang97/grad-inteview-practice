@@ -17,6 +17,8 @@ Refreshing theoretical things for grad interviews
 - Commowealth Bank
 - Woolworths
 - REA Group
+- Canva
+  - [] N/A @ Canva (Sydney, Australia)
 
 # Motivation
 
